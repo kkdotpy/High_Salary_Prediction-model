@@ -1,2 +1,3 @@
 # High_Salary_Prediction-model
-A python project which involves creation of a model which can predict if a particular job title has either high or low salary based on other attributes related to the job itself.
+
+In this Python repository, you'll find a project focused on developing a model to predict whether a specific job title corresponds to a high or low salary, leveraging various job-related attributes. The dataset includes real data sourced from Glassdoor, featuring diverse jobs in the field of data science and associated attributes. Explore the Jupyter notebook to delve into project aspects such as data extraction, exploration, dimensionality reduction, model building, training, and testing.
